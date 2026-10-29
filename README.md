@@ -1,4 +1,4 @@
-# 🦖 Dino Game — Python & OOP
+# 🦖 Dino Game Python
 
 A 2D dinosaur running game developed using **Python and Object-Oriented Programming (OOP)**. The project includes dinosaur animations, bird obstacles, trees, sound effects, and graphical assets to create an interactive gaming experience.
 
